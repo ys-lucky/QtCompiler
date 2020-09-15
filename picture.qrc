@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/about.png</file>
+        <file>image/background.png</file>
+        <file>image/color.png</file>
+        <file>image/copy.png</file>
+        <file>image/cut.png</file>
+        <file>image/delete.png</file>
+        <file>image/font.png</file>
+        <file>image/Lexer.png</file>
+        <file>image/new.png</file>
+        <file>image/open.png</file>
+        <file>image/parse.png</file>
+        <file>image/paste.png</file>
+        <file>image/save.png</file>
+        <file>image/save_as.png</file>
+        <file>image/table.png</file>
+        <file>image/school.png</file>
+        <file>image/reset.png</file>
+    </qresource>
+</RCC>
